@@ -9,9 +9,9 @@
 
 
 #### A visual
-![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/Hackathon-Promot-Img-1.png?raw=true "Big Data Hackathon for San Diego 2022")  
+![bigdatahackathon4sd_image](https://github.com/BigDataForSanDiego/team123/edit/main/Note_Oct_8_2022_2.pdf)  
 
-<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/hdma2.png?raw=true"> 
+
 
 
 #### Hackathon Theme(s) (check a box(es))
