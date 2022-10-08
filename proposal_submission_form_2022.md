@@ -12,7 +12,7 @@
 ![big_data_image](https://github.com/BigDataForSanDiego/team123/blob/main/Note_Oct_8_2022_2.pdf)  
 
 
-#### Hackathon Theme(s) (check a box(es))
+#### Hackathon Theme(s) (provided below)
 - [X] Artificial Intelligence/Machine Learning 
 > Utilizing PubMed.ncbi databases (for cross-referencing) and pre-exisitng machine learning processing models to verify and accurately provide medical document translation to users.
 - [X] Mobile
@@ -34,13 +34,13 @@
 
 - `Krishiv Vora - krishivvora`
 
-- `Victor Lopez - Victorlo50
+- `Victor Lopez - Victorlo50`
 
 - `Zaki Ahmed - zaki1503`
 
-- `Gio DeGuzman - gdeguz'
+- `Gio DeGuzman - gdeguz`
 
-- `Patrick Simpauco - patsimp'
+- `Patrick Simpauco - patsimp`
 
 - `Jonathan Aldana-Mendoza`
 
