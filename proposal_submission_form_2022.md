@@ -9,9 +9,7 @@
 
 
 #### A visual
-![bigdatahackathon4sd_image](https://github.com/BigDataForSanDiego/team123/edit/main/Note_Oct_8_2022_2.pdf)  
-
-
+![big_data_image](https://github.com/BigDataForSanDiego/team123/blob/main/Note_Oct_8_2022_2.pdf)  
 
 
 #### Hackathon Theme(s) (check a box(es))
