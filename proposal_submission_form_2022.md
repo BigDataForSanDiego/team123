@@ -14,9 +14,9 @@
 
 #### Hackathon Theme(s) (check a box(es))
 - [X] Artificial Intelligence/Machine Learning 
-> How can we leverage AI/ML Algorithms to help support diagnostics, clinical decisions, and forecast staffing and hospital capacity?
+> Utilizing PubMed.ncbi databases (for cross-referencing) and pre-exisitng machine learning processing models to verify and accurately provide medical document translation to users.
 - [X] Mobile
-> Designing Mobile Apps to improve user experience before, during, and after a healthcare visit.
+> Designing a mobile app for users with native-speaking experience to download and provide translation feedback/contribution.
 - [X] Patient experience
 > How do you incorporate the patient perspective through the intersection of patient, provider, and community data into care plans.
 - [X] Health Disparities
