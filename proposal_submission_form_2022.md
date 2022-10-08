@@ -5,7 +5,7 @@
 #### Team Name: `Tech Support Hotline`    
   
 #### Your team’s hackathon idea in One sentence:
-##### `Integrating machine learning, crowdsourcing, and expert review to translate official medical webpages and documents into different languages.`
+##### `Integrating machine learning, crowdsourcing, and expert review to translate official medical webpages and documents into different languages for both users and healthcare providers.`
 
 
 #### A visual
@@ -26,7 +26,7 @@
 - [] Privacy and Security
 > How can we increase data privacy and enhance cybersecurity measures in the release, exchange and use of healthcare data, both locally and nationally.
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+#### Team Coordinator GitHub Username: `mbrown-2`
 
 #### Team Members 
 
@@ -40,10 +40,10 @@
 
 - `Zaki Ahmed - zaki1503`
 
-- `text testing`
+- `Gio DeGuzman - gdeguz'
 
-- `text testing`
+- `Patrick Simpauco - patsimp'
 
-- `text testing`
+- `Jonathan Aldana-Mendoza`
 
 
