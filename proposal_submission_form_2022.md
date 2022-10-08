@@ -2,7 +2,7 @@
 
 #### Team Number: `123`  
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: `Tech Support Hotline`    
   
 #### Your team’s hackathon idea in One sentence:
 ##### `YOUR ONE SENTENCE HERE`
@@ -23,9 +23,15 @@
 > How do you incorporate the patient perspective through the intersection of patient, provider, and community data into care plans.
 - [X] Health Disparities
 > What is the role of big data and analytics in addressing health disparities among vulnerable and minority populations in San Diego County.
-- [X] Privacy and Security
+- [] Privacy and Security
 > How can we increase data privacy and enhance cybersecurity measures in the release, exchange and use of healthcare data, both locally and nationally.
 
 #### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
 
-#### Team Members `YOUR TEAM MEMBERS NAME & GITHUB USERNAME HERE`
+#### Team Members 
+
+`text testing`
+
+`text testing`
+
+
