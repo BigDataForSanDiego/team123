@@ -5,7 +5,7 @@
 #### Team Name: `Tech Support Hotline`    
   
 #### Your team’s hackathon idea in One sentence:
-##### `YOUR ONE SENTENCE HERE`
+##### `Integrating machine learning, crowdsourcing, and expert review to translate official medical webpages and documents into different languages.`
 
 
 #### A visual
@@ -30,8 +30,20 @@
 
 #### Team Members 
 
-`text testing`
+- `Michael Brown - mbrown-2`
 
-`text testing`
+- `text testing`
+
+- `text testing`
+
+- `text testing`
+
+- `text testing`
+
+- `text testing`
+
+- `text testing`
+
+- `text testing`
 
 
