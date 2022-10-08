@@ -18,11 +18,11 @@
 - [X] Mobile
 > Designing a mobile app for users with native-speaking experience to download and provide translation feedback/contribution.
 - [X] Patient experience
-> How do you incorporate the patient perspective through the intersection of patient, provider, and community data into care plans.
+> Translated information will allow users with non-English native-speaking backgrounds to read their medical information more clearly.
 - [X] Health Disparities
-> What is the role of big data and analytics in addressing health disparities among vulnerable and minority populations in San Diego County.
+> Minimizing the confusion of translation to prevent mis-information and make medical information more accessible to individuals from all backgrounds.
 - [] Privacy and Security
-> How can we increase data privacy and enhance cybersecurity measures in the release, exchange and use of healthcare data, both locally and nationally.
+> 
 
 #### Team Coordinator GitHub Username: `mbrown-2`
 
