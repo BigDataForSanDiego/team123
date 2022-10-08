@@ -32,13 +32,13 @@
 
 - `Michael Brown - mbrown-2`
 
-- `text testing`
+- `Logan Moreno - lmocs`
 
-- `text testing`
+- `Krishiv Vora - krishivvora`
 
-- `text testing`
+- `Victor Lopez - Victorlo50
 
-- `text testing`
+- `Zaki Ahmed - zaki1503`
 
 - `text testing`
 
